@@ -16,6 +16,7 @@
 #include <ft_printf.h>
 /*
 plane is two triangles
+dit is enkel een test voor git
 ax + by + cz + d = 0
 aix + biy + ciz = 0; (lies in the triangle)
 if i is also on the ray (so intersects);
